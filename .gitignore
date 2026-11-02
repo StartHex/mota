@@ -1,0 +1,10 @@
+.DS_Store
+*.psd
+*.ai
+.shots/
+_shot*.html
+_shot*.png
+_s0*.html
+_t.html
+_t.png
+node_modules/
